@@ -1,0 +1,8 @@
+課題の目的
+
+HTML
+・ul, liの記述方法
+
+CSS
+・position: absoluteの指定
+・擬似クラスの指定

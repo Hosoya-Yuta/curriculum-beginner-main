@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+/* clearfix用 */
+.clearfix::after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/* ここから書く */
+
+.content {
+  display: flex;
+  justify-content: center;
+}
+.BOX1 {
+  background-color: #141f40;
+  width: 400px;
+  height: 100px;
+}
+.BOX2 {
+  background-color: #80bfa8;
+  width: 150px;
+  height: 250px;
+  float: left;
+}
+.BOX3 {
+  background-color: #8c2727;
+  width: 250px;
+  height: 250px;
+  float: left;
+}
+.BOX4 {
+  background-color: #d98d30;
+  width: 400px;
+  height: 100px;
+}
+
+

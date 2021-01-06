@@ -1,0 +1,5 @@
+課題の目的
+
+CSS
+・SPサイトの基本的なマークアップ方法
+・box-shadow, border-radiusを使ったデザインの付け方
